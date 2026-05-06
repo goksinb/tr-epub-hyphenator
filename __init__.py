@@ -19,7 +19,7 @@ class TurkishHyphenatorPlugin(InterfaceActionBase):
     )
     supported_platforms     = ['windows', 'osx', 'linux']
     author                  = 'gba'
-    version                 = (2, 0, 0)
+    version                 = (1, 0, 0)
     minimum_calibre_version = (5, 0, 0)
 
     #: Points Calibre to the actual GUI class
